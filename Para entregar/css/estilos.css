@@ -1,0 +1,46 @@
+
+
+
+
+ header 
+{
+   /* background-color: grey;*/
+    font-family: 'IBM Plex Mono', monospace;    
+    
+}
+nav 
+{
+    background-color: rgb(14, 113, 146);
+    font-family: 'IBM Plex Mono', monospace;
+    padding: 20px;
+       
+}
+footer
+{
+    background-color: rgb(14, 78, 175);
+    font-family: 'IBM Plex Mono', monospace;
+    padding: 20px;
+    
+} 
+
+/*.inicio{
+   height: 70px; 
+}*/
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.Nombre{
+   padding: 20px;
+   text-align: center;
+}
+
+.redes{
+   
+    padding: 10px;
+    text-align: center;
+   }
