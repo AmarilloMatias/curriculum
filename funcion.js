@@ -17,3 +17,4 @@ document.getElementById("boton_default").onclick = function ()
 {
     document.body.style.backgroundColor = "white";
 }
+
