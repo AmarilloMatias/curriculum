@@ -1,0 +1,19 @@
+
+
+
+
+ header 
+{
+    background-color: grey;
+    font-family: 'IBM Plex Mono', monospace;
+}
+nav 
+{
+    background-color: rgb(14, 113, 146);
+    font-family: 'IBM Plex Mono', monospace;
+}
+footer
+{
+    background-color: rgb(14, 78, 175);
+    font-family: 'IBM Plex Mono', monospace;
+} 
